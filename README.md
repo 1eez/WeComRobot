@@ -4,7 +4,7 @@
 
 ## 需要安装的包
 
-* `sudo pip3 install requests`
+* `sudo pip install requests`
 
 ## 特别说明
 
